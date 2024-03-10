@@ -1,4 +1,4 @@
-![Github Metrics](./github-metrics.svg)
+
 
 #### Connect Me
 
