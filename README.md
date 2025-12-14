@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Shefat 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=480&lines=Aspiring+Full-stack+Developer;C%23+.NET+Backend+Enthusiast;C%23+%7C+Angular+%7C+MSSQL;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=480&lines=Backend-Focused+Full-stack+Developer;C%23+%7C+ASP.NET+Core+MSSQL+Server;MVC+%7C+WebAPI+%7C;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
