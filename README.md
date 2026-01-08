@@ -4,18 +4,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=480&lines=.NET+Developer+(Backend+focused);C%23+%7C+ASP.NET+Core+%7C+MSSQL;MVC+%7C+WebAPI+%7C+Aspire;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🧑‍💻 About Me
+### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 25px></picture>  About Me
 ```yaml
 Name: Md Shefat Al Mahmud
 Role: .NET Developer
 Location: Dhaka, Bangladesh 🇧🇩
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🛠️ Tech Stack
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> Tech Stack
 
 <div align="center">
   <table>
@@ -102,8 +102,7 @@ Location: Dhaka, Bangladesh 🇧🇩
 
 </div>
 
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📫 Connect Me
 <p align="center">
@@ -113,7 +112,8 @@ Location: Dhaka, Bangladesh 🇧🇩
   <a href="https://t.me/shefat2002/"><img src="https://img.icons8.com/bubbles/80/undefined/telegram-app.png" alt="Telegram"/></a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
   <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=67193133" target="_blank" style="display: block" align="center">
   <picture>
@@ -123,9 +123,10 @@ Location: Dhaka, Bangladesh 🇧🇩
 </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shefat2002&theme=github-dark&hide_border=true) 
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
