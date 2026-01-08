@@ -123,10 +123,9 @@ Location: Dhaka, Bangladesh 🇧🇩
 </a>
 </p>
 
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shefat2002&theme=tokyonight" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shefat2002&theme=github-dark&hide_border=true) 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
