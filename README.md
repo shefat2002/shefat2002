@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Shefat 👋</h1>
+<h1 align="center">Hi there, I'm Shefat 👋</h1> 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=480&lines=.NET+Developer+(Backend+focused);C%23+%7C+ASP.NET+Core+%7C+MSSQL;MVC+%7C+WebAPI+%7C+Aspire;Always+Learning+New+Things" alt="Typing SVG" />
@@ -127,6 +127,7 @@ Location: Dhaka, Bangladesh 🇧🇩
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shefat2002&theme=github-dark&hide_border=true) 
 
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=shefat2002" alt="visitor badge"/></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
