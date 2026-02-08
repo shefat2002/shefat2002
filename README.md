@@ -43,6 +43,7 @@ Location: Dhaka, Bangladesh 🇧🇩
         <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=white" alt="ASP.NET Core">
         <img src="https://img.shields.io/badge/Entity_Framework-68217A?logo=dotnet&logoColor=white" alt="Entity Framework Core">
         <img src="https://img.shields.io/badge/SignalR-512BD4?logo=dotnet&logoColor=white" alt="SignalR">
+        <img src="https://img.shields.io/badge/gRPC-244c5a?logo=grpc&logoColor=white" alt="gRPC">
         <img src="https://img.shields.io/badge/.NET_Aspire-512BD4?logo=dotnet&logoColor=white" alt=".NET Aspire">
       </td>
     </tr>
