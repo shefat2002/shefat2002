@@ -62,7 +62,7 @@ Location: Dhaka, Bangladesh 🇧🇩
       <td>🗄️ <strong>Database</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL">
         <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis">
       </td>
     </tr>
