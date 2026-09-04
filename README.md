@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Shefat 👋</h1> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=480&lines=.NET+Developer+(Backend+focused);C%23+%7C+ASP.NET+Core+%7C+MSSQL;MVC+%7C+WebAPI+%7C+Aspire;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=480&lines=.NET+Developer+(Backend+focused);C%23+%7C+ASP.NET+Core+%7C+PostgreSQL;MVC+%7C+WebAPI+%7C+Aspire;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
@@ -55,7 +55,7 @@ Location: Dhaka, Bangladesh 🇧🇩
         <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap">
         <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery">
-        <img src="https://img.shields.io/badge/Angular-2416ED?logo=angular&logoColor=white" alt="Angular">
+        <img src="https://img.shields.io/badge/React-2416ED?logo=react&logoColor=white" alt="React">
       </td>
     </tr>
     <tr>
